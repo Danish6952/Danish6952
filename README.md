@@ -40,8 +40,7 @@
 
 **Other Tools:**  
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333?logo=jupyter)  
-![VS Code](https://img.shields.io/badge/-VSCode-333?logo=visualstudiocode)  
-![Postman](https://img.shields.io/badge/-Postman-333?logo=postman)
+![VS Code](https://img.shields.io/badge/-VSCode-333?logo=visualstudiocode)
 
 ---
 
