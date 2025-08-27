@@ -47,7 +47,7 @@
 ### 📫 Contact & Profiles
 
 - 📧 **Email:** [rajadanish.ist@gmail.com](mailto:rajadanish.ist@gmail.com)  
-- 🔗 **LinkedIn:** [linkedin.com/in/raja-danish-193a9a311](https://linkedin.com/in/raja-danish-193a9a311)  
+- 🔗 **LinkedIn:** [linkedin.com/in/raja-danish-193a9a311](https://linkedin.com/in/raja-danish-ali)  
 - 🐙 **GitHub:** [github.com/Danish6952](https://github.com/Danish6952)  
 
 ---
